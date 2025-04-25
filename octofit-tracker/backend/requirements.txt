@@ -1,2 +1,3 @@
+# Dependências do projeto Octofit Tracker
 Django>=4.1
 psycopg2-binary
